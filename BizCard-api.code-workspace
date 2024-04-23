@@ -1,0 +1,38 @@
+{
+	"folders": [
+		{
+			"path": "\\\\wsl.localhost\\Ubuntu\\home\\tsukiiya\\myfiles\\BizCard-api"
+		},
+		{
+			"path": "app"
+		},
+		{
+			"path": "BizCar-Front"
+		},
+		{
+			"path": "bootstrap"
+		},
+		{
+			"path": "config"
+		},
+		{
+			"path": "database"
+		},
+		{
+			"path": "public"
+		},
+		{
+			"path": "resources"
+		},
+		{
+			"path": "routes"
+		},
+		{
+			"path": "storage"
+		},
+		{
+			"path": "tests"
+		}
+	],
+	"settings": {}
+}
